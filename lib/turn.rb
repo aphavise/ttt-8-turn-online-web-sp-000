@@ -51,7 +51,7 @@ def turn(board)
      display_board(board)
    else
      puts "Input invalid and provide valid location"
-    #  turn(board)
+     turn(board)
    end
-   turn(board)
+  #  turn(board)
 end
